@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/antd_demo/static/css/main.a9dcdbd4.css",
+    "main.js": "/antd_demo/static/js/main.99d08b61.js",
+    "static/js/787.82ea8e80.chunk.js": "/antd_demo/static/js/787.82ea8e80.chunk.js",
+    "index.html": "/antd_demo/index.html",
+    "main.a9dcdbd4.css.map": "/antd_demo/static/css/main.a9dcdbd4.css.map",
+    "main.99d08b61.js.map": "/antd_demo/static/js/main.99d08b61.js.map",
+    "787.82ea8e80.chunk.js.map": "/antd_demo/static/js/787.82ea8e80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9dcdbd4.css",
+    "static/js/main.99d08b61.js"
+  ]
+}
